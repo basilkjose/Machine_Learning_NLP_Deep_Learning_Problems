@@ -10,3 +10,6 @@
 
 
 ## Deep Learning
+1. [Back propagation from scratch](https://github.com/basilkjose/Machine_learning_NLP_Deep_Learning_Problems/blob/main/Backpropagation_assignment%20solution.ipynb)
+2. [Tensorflow 2.0 Call back](https://github.com/basilkjose/Machine_learning_NLP_Deep_Learning_Problems/blob/main/Call_Backs_Assignment_solution.ipynb)
+3. [Transfer Learning on document classifucation dataset](https://github.com/basilkjose/Machine_learning_NLP_Deep_Learning_Problems/blob/main/Transfer_Learning.ipynb)
