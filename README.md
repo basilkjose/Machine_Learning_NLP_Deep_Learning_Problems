@@ -1,6 +1,8 @@
 ## Machine Learning
 
 1. [Basic regression analysis and prediction ](https://github.com/basilkjose/Machine-learning-problems/tree/main/basic%20regression%20analysis)
+2. [Exploratory data analysis on Haberman dataset ](https://github.com/basilkjose/Machine_learning_NLP_Deep_Learning_Problems/blob/main/EDA_HABERMAN.ipynb)
+3. [Navie Bayes on Donar Choose dataset](https://github.com/basilkjose/Machine_learning_NLP_Deep_Learning_Problems/blob/main/Apply%20Naive%20Bayes%20on%20Donors%20Choose%20dataset%20(1).ipynb)
 
 ## Natural Language Processing
 
